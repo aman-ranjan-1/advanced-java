@@ -1,9 +1,9 @@
 # ☕ Advanced Java Concepts
 
-![Java](https://img.shields.io/badge/Language-Java-orange)
-![Level](https://img.shields.io/badge/Level-Advanced-red)
-![Status](https://img.shields.io/badge/Status-Learning-green)
-![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue)
+![Java](https://img.shields.io/badge/Language-Java-orange)  
+![Level](https://img.shields.io/badge/Level-Advanced-red)  
+![Status](https://img.shields.io/badge/Status-Learning-green)  
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-blue)  
 
 ---
 
