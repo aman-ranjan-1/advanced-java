@@ -24,6 +24,7 @@ public class Exception1 {
         }
         // finally block always executed (with or without Error)
         finally{
+            in.close();
             System.out.println("Program End");
         }
     }
