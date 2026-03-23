@@ -129,6 +129,15 @@ Below is the list of important files :
 3. Exception3.java - Example and Explainaton Code of Throwing Exceptions , use of throw keyword
 
 4. Exception4.java - example code and explaination of Checked Exceptions in Java 
+
+5. Exception5.java - example code and explaination of Unchecked Exceptions in Java
+
+6. Exception6.java - example code and explaination of Custom Exceptions
+   Most Important in Exception Handling
+
+7. PracticeCode1.java - a program to create a method that takes an integer as a parameter and throws an exception if num is odd.
+
+8. PracticeCode2.java - a program to create a method that takes a string as an input and throws an exception if the number is odd.
 ---
 
 ---
