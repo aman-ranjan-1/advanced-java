@@ -122,12 +122,13 @@ if (age < 18) {
 
 Below is the list of important files :
 
-1. Exception1.java - example and explanation of try , catch , finally block with ArithmeticException
+1. Exception1.java - example and explaination of try , catch , finally block with ArithmeticException
 
-2. Exception2.java - example and explanation of multiple catch blocks (multiple exceptions)
+2. Exception2.java - example and explaination of multiple catch blocks (multiple exceptions)
 
-3. Exception3.java - Example and Explanaton Code of Throwing Exceptions , use of throw keyword
+3. Exception3.java - Example and Explainaton Code of Throwing Exceptions , use of throw keyword
 
+4. Exception4.java - example code and explaination of Checked Exceptions in Java 
 ---
 
 ---
