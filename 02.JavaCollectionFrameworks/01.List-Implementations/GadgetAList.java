@@ -11,7 +11,7 @@ public class GadgetAList {
         Gadgetlist.add(new Gadget("Macbook", 120000));
         Gadgetlist.add(new Gadget("Ipad", 50000)); 
         Gadgetlist.add(new Gadget("Airbuds", 30000));
-
+        // display
         System.out.println("List of Gadgets:");
         for (Gadget idx : Gadgetlist) {
             System.out.println(idx);
