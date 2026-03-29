@@ -193,13 +193,7 @@ Contributions are welcome!
 
 ## 📄 License
 
-This project is licensed under the MIT License .
-
----
-
-## ⭐ Support
-
-If you find this repository helpful, please ⭐ star it and share it with others!
+This project is licensed under the MIT License and free to use.
 
 ---
 
